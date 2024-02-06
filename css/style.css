@@ -27,7 +27,7 @@ nav ul li{
 }
 
 nav ul li:hover{
-    color: ##126666;
+    color: #309191;
     font-weight: bold;
     transition: 0.15s;
 }
@@ -46,7 +46,7 @@ nav ul li:hover{
 }
 
 .logo:hover{
-    color: #2c9e9e;
+    color: #309191;
     transition: 0.15s;
 }
 
