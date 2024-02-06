@@ -34,6 +34,7 @@ nav ul li:hover{
 
 .active{
     font-weight: bold;
+    color: #2c9e9e;
 }
 
 .logo{
@@ -42,7 +43,6 @@ nav ul li:hover{
     font-family: "Futura", "Trebuchet MS", Arial, sans-serif;
     padding-right: 30px;
     margin-left: 20px;
-    color: #146666;
 }
 
 .logo:hover{
